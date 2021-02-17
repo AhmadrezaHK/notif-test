@@ -1,2 +1,2 @@
-Notification.requestPermission();
-navigator.serviceWorker.register("/sw.js");
+// Notification.requestPermission();
+// navigator.serviceWorker.register("/sw.js");
